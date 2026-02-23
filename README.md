@@ -241,7 +241,7 @@ section {
 <section id="contact" style="background:#fff;">
     <h2 class="section-title">Contact Us</h2>
     <p>📍 Kimberley CBD</p>
-    <p>📱 Call/WhatsApp: 000-000-0000</p>
+    <p>📱 Call/WhatsApp: 084-943-0677</p>
     <p>📧 Email: info@treatsbakery.co.za</p>
     <a href="#" class="btn">Place an Order</a>
 </section>
