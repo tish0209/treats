@@ -245,7 +245,7 @@ footer {
 <section id="contact">
     <h2 class="section-title">Contact Us</h2>
     <p>📍 Kimberley CBD</p>
-    <p>📞 000-000-0000</p>
+    <p>📞 084-943-0677</p>
     <p>📧 info@treatsbakery.co.za</p>
     <a href="#" class="btn">Place an Order</a>
 </section>
