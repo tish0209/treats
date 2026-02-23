@@ -22,7 +22,7 @@ body {
 
 header {
     background: linear-gradient(135deg, #ff7b54, #ffb26b);
-    color: white;
+    color: coffeebrown;
     padding: 20px 40px;
     display: flex;
     justify-content: space-between;
@@ -30,13 +30,13 @@ header {
 }
 
 .logo {
-    font-size: 1.8rem;
+    font-size: 1.9rem;
     font-weight: 700;
 }
 
 nav a {
     color: white;
-    text-decoration: none;
+    text-decoration: bold,italic font;
     margin-left: 20px;
     font-weight: 500;
 }
